@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GY Gathering</string>
+    <string name="com_auth0_domain">gycoding.eu.auth0.com</string>
+
+</resources>
